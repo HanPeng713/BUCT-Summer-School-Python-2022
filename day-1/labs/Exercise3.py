@@ -7,5 +7,10 @@
 
 # Define the number 
 num = 20
-
+square = num*num
+cube = num*num*num
+fourthPower=num*num*num
 # Display the powers using print statements
+print(square)
+print(cube)
+print(fourthPower)
