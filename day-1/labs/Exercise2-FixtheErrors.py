@@ -2,17 +2,17 @@
 # Read the errors if the code fails and fix them one at a time
 
 #Fix the variable name
-9thFloorRoomCount = 100  
-table height = 32
-1fl.oz = 12
+NinethFloorRoomCount = 100  
+tableHeight = 32
+Onefloz = 12
 
 # fix the assignement operations
-table + 2 = 30
+tableHeight = 30-2
+tax1 = 0.2
 tax2 = tax1
-_carCount = 72B
-myAge = # insert your age
-print my age
-
+_carCount = "72B"
+myAge = 20# insert your age
+print(myAge)
 # Convert my name to UPPER CASE
-myName = "Paul Doyle"
+myName = "Han Peng"
 # Insert your code here...
