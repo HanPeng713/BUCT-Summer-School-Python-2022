@@ -5,11 +5,9 @@
 # correct them and 
 
 Pi is a constant so make sure it is in UPPERCASE
-pi = 3.14
-
-table area = PI * radius * radius
-
+PI = 3.14
+radius=2
+tableArea = PI * radius * radius
 # This code is for testing your output
 # Don't change this code
-
 print (tableArea)
